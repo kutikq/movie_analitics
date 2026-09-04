@@ -1,9 +1,3 @@
-# здесь будут все классы, сначала их можем осущствить в разных ветках в разных файлах !
-# кек
-# movies.py - делали вместе, links.py - делал сергей, ratings.py - делала маша, tags.py - делал денис.
-# class tests - ??? 
-# блокнот - вместе делать будем
-
 import requests
 from bs4 import BeautifulSoup
 import time
